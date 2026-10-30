@@ -8,6 +8,7 @@
         xmlns:views="clr-namespace:MyPass.UI.Views"
         mc:Ignorable="d"
         Title="MyPass"
+        Icon="/Assets/app.ico"
         Width="950"
         Height="650"
         MinWidth="700"
